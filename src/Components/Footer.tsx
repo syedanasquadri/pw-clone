@@ -1,5 +1,4 @@
 import { InstaIcon } from "../icons/InstaIcon"
-import { LinkedInIcon } from "../icons/LinkedInIcon"
 import { PwIcon } from "../icons/PwIcon"
 import { TwitterIcon } from "../icons/TwitterIcon"
 
@@ -21,7 +20,6 @@ export const Footer = () => {
             <div>Let's get social :</div>
             <div className="flex">
                 <InstaIcon/>
-
                 <TwitterIcon/>
             </div>
         </div>
